@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/NekoLyrics/static/css/main.b16baad8.chunk.css",
-    "main.js": "/NekoLyrics/static/js/main.d8ecdd89.chunk.js",
-    "main.js.map": "/NekoLyrics/static/js/main.d8ecdd89.chunk.js.map",
-    "runtime-main.js": "/NekoLyrics/static/js/runtime-main.309164c8.js",
-    "runtime-main.js.map": "/NekoLyrics/static/js/runtime-main.309164c8.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/NekoLyrics/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b3c53090.chunk.js": "/NekoLyrics/static/js/2.b3c53090.chunk.js",
-    "static/js/2.b3c53090.chunk.js.map": "/NekoLyrics/static/js/2.b3c53090.chunk.js.map",
-    "index.html": "/NekoLyrics/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/NekoLyrics/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.b16baad8.chunk.css.map": "/NekoLyrics/static/css/main.b16baad8.chunk.css.map",
-    "static/js/2.b3c53090.chunk.js.LICENSE.txt": "/NekoLyrics/static/js/2.b3c53090.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/NekoLyrics/static/media/bg-home.c4d27902.jpg"
+    "main.css": "/NekoLyrics/api/static/css/main.6e8eb441.chunk.css",
+    "main.js": "/NekoLyrics/api/static/js/main.d8ecdd89.chunk.js",
+    "main.js.map": "/NekoLyrics/api/static/js/main.d8ecdd89.chunk.js.map",
+    "runtime-main.js": "/NekoLyrics/api/static/js/runtime-main.4b322f72.js",
+    "runtime-main.js.map": "/NekoLyrics/api/static/js/runtime-main.4b322f72.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/NekoLyrics/api/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b3c53090.chunk.js": "/NekoLyrics/api/static/js/2.b3c53090.chunk.js",
+    "static/js/2.b3c53090.chunk.js.map": "/NekoLyrics/api/static/js/2.b3c53090.chunk.js.map",
+    "index.html": "/NekoLyrics/api/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/NekoLyrics/api/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6e8eb441.chunk.css.map": "/NekoLyrics/api/static/css/main.6e8eb441.chunk.css.map",
+    "static/js/2.b3c53090.chunk.js.LICENSE.txt": "/NekoLyrics/api/static/js/2.b3c53090.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/NekoLyrics/api/static/media/bg-home.c4d27902.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.309164c8.js",
+    "static/js/runtime-main.4b322f72.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.b3c53090.chunk.js",
-    "static/css/main.b16baad8.chunk.css",
+    "static/css/main.6e8eb441.chunk.css",
     "static/js/main.d8ecdd89.chunk.js"
   ]
 }
