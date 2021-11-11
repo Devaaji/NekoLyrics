@@ -1,0 +1,34 @@
+.postCard {
+  box-sizing: border-box;
+  border-radius: 7px;
+  background-color: rgba(0, 0, 0, 0.486);
+  width: 100%;
+  display: flex;
+  cursor: pointer;
+  flex-direction: column;
+
+}
+.postCard img {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 7px 7px 0px 0px;
+}
+.postTitle {
+  text-align: center;
+  padding: 7px;
+  position: relative;
+  color: whitesmoke;
+}
+
+.postTitle h1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-size: 15px;
+}
+.postCard:hover {
+  transition: all 0.2s ease-in-out;
+    transform: scale(1.01);
+}

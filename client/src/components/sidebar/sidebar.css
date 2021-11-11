@@ -1,0 +1,36 @@
+.sidebar {
+    padding-bottom: 20px;
+    background-color: rgba(245, 245, 245, 0.685);
+    border-radius: 10px;
+    height: max-content;
+}
+.center-bar{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.inputBar input {
+    border: none;
+    border-radius: 5px;
+}
+.icons i {
+    margin-left: 2px;
+}
+.follow-us i {
+    margin: 7px;
+}
+.thanks{
+    text-align: center;
+}
+
+.pop-side{
+    display: flex;
+}
+.pop-side img{
+    margin-right: 10px;
+    width: 60px;
+}
+@media screen and (max-width: 753px) {
+  }

@@ -1,0 +1,51 @@
+
+.bg-color{
+    height: max-content;
+    background-color: rgb(253, 250, 246);
+}
+.singlePostImg{
+    margin-top: 50px;
+    display: flex; 
+    justify-content: center;
+}
+.box-sizeposition{
+    
+    width: 70%;
+}
+Img {
+    object-fit: cover;
+}
+.postLyrics{
+    margin-top: 30px;
+    white-space: pre-line;
+}
+.postEng{
+    white-space: pre-line;
+}
+.postKanji{
+    white-space: pre-line;
+}
+.postYT{
+    display: flex;
+    justify-content: center;
+}
+.icons {
+    display: flex;
+    margin-bottom: 20px;
+}
+.icon-edit{
+    font-size: 20px;
+    color: green;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.icon-delete{
+    font-size: 20px;
+    cursor: pointer;
+    color: red;
+}
+@media screen and (min-width: 600px) {
+    .singlePost{
+        border-radius: 10px;
+    }
+  }

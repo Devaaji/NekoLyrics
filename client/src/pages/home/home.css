@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-image: linear-gradient(rgba(37, 143, 214, 0.76), rgba(255, 255, 255, 0.411)), url("../../images/bg-home.jpg")
+}
+.spin-center {
+    display: flex;
+    justify-content: center;
+}
